@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Hack Sberbank</string>
-    <string name="resources">Алло</string>
-    <string name="text">Кликните, чтобы заработать</string>
-    <string name="getmoney">+1₽ на баланс</string>
+    <string name="app_name">Калькулятор</string>
+    <string name="textViewInSecondActivity">one</string>
+    <string name="theFirstTerm">Первое слагаемое:</string>
+    <string name="theSecondTerm">Второе слагаемое:</string>
+    <string name="valuesOfInputNumbers">0,1,2,3,4,5,6,7,8,9,-,</string>
 </resources>

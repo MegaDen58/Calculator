@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <dimen name="textSizeInSecondActivity">50dp</dimen>
+    <dimen name="layout_widthInSecondActivity">371dp</dimen>
+    <dimen name="layout_heightInSecondActivity">152dp</dimen>
+    <dimen name="layout_marginStartInSecondActivity">4dp</dimen>
+    <dimen name="layout_marginBottomInSecondActivity">288dp</dimen>
+    <dimen name="textSizeOfTheSecondTerm">20sp</dimen>
+    <dimen name="textSizeOfTheFirstTerm">20dp</dimen>
 </resources>

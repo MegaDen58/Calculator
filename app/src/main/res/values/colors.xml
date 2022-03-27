@@ -12,4 +12,6 @@
     <color name="purple_700">#F38D06ED</color>
     <color name="purple_200">#F38D06ED</color>
     <color name="teal_200">#FA018786</color>
+    <color name="textColorInSecondActivity">#4B0082</color>
+    <color name="textColorTheTerm">#FF7A44DF</color>
 </resources>
