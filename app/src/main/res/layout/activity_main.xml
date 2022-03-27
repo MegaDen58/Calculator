@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/TheSecondTerm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/theSecondTerm"
@@ -21,7 +21,7 @@
         app:layout_constraintVertical_bias="0.464" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/TheFirstTerm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/theFirstTerm"
@@ -36,8 +36,8 @@
 
     <EditText
         android:id="@+id/secondNumber"
-        android:layout_width="177dp"
-        android:layout_height="40dp"
+        android:layout_width="@dimen/widthOfSecondNumber"
+        android:layout_height="@dimen/heightOfSecondNumber"
         android:ems="10"
         android:inputType="number"
         android:digits="@string/valuesOfInputNumbers"
@@ -50,8 +50,8 @@
 
     <EditText
         android:id="@+id/firstNumber"
-        android:layout_width="177dp"
-        android:layout_height="40dp"
+        android:layout_width="@dimen/widthOfFirstNumber"
+        android:layout_height="@dimen/heightOfFirstNumber"
         android:ems="10"
         android:inputType="number"
         android:digits="@string/valuesOfInputNumbers"
@@ -66,12 +66,12 @@
 
     <Button
         android:id="@+id/fold"
-        android:layout_width="337dp"
-        android:layout_height="64dp"
-        android:backgroundTint="#7A44DF"
-        android:text="Сложить"
-        android:textColor="#FFFFFF"
-        android:textSize="30dp"
+        android:layout_width="@dimen/widthOfButton"
+        android:layout_height="@dimen/heightOfButton"
+        android:backgroundTint="@color/buttonBackgroundColor"
+        android:text="@string/textOfButton"
+        android:textColor="@color/textColorOfButton"
+        android:textSize="@dimen/textSizeOfButton"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

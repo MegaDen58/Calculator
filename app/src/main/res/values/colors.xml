@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="oval_border">#3803F7</color>
     <color name="text">#FF6200EE</color>
     <color name="button">#FF3700B3</color>
     <color name="ww">#FF03DAC5</color>
@@ -14,4 +13,6 @@
     <color name="teal_200">#FA018786</color>
     <color name="textColorInSecondActivity">#4B0082</color>
     <color name="textColorTheTerm">#FF7A44DF</color>
+    <color name="textColorOfButton">#FFFFFF</color>
+    <color name="buttonBackgroundColor">#7A44DF</color>
 </resources>

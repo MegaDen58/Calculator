@@ -8,4 +8,11 @@
     <dimen name="layout_marginBottomInSecondActivity">288dp</dimen>
     <dimen name="textSizeOfTheSecondTerm">20sp</dimen>
     <dimen name="textSizeOfTheFirstTerm">20dp</dimen>
+    <dimen name="textSizeOfButton">30sp</dimen>
+    <dimen name="heightOfButton">64dp</dimen>
+    <dimen name="widthOfButton">337dp</dimen>
+    <dimen name="heightOfSecondNumber">40dp</dimen>
+    <dimen name="widthOfSecondNumber">177dp</dimen>
+    <dimen name="heightOfFirstNumber">40dp</dimen>
+    <dimen name="widthOfFirstNumber">177dp</dimen>
 </resources>
